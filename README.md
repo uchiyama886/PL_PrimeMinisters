@@ -1,5 +1,5 @@
-# PL_PrimeMinisters
-プログラミング言語の長期課題「総理大臣ページ生成」のリポジトリです。
+# PL_PrimeMinistersByJava
+プログラミング言語の長期課題「総理大臣ページ生成」のJavaプログラムリポジトリです。
 
 1964年からの日本の総理大臣の情報を記した「CSV	:	Comma-Separated	Values」を「総理大臣ページ」へと変換するJavaプログラムと
 Pythonプログラムの両方を作成せよ。これは、CSVという形式の言語を、HTMLという形式の言語に変換するプログラムを、JavaとPython
