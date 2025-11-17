@@ -14,12 +14,6 @@ public class IO extends Object {
 	 */
 	private Table table;
 
-	private File file;
-
-	private URL[] uRL;
-
-	private List<String>[] list;
-
 	/**
 	 * 属性リストを応答する。
 	 */

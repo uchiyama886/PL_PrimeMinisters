@@ -29,10 +29,6 @@ public class Table extends Object {
 	 */
 	private List<Tuple> tuples;
 
-	private BufferedImage bufferedImage;
-
-	private List<Tuple>[] list;
-
 	/**
 	 * タプルを追加する。
 	 */
@@ -71,7 +67,7 @@ public class Table extends Object {
 	/**
 	 * サムネイル画像群を応答する。
 	 */
-	public List_BufferedImage_ thumbnails() {
+	public List<BufferedImage> thumbnails() {
 		return null;
 	}
 

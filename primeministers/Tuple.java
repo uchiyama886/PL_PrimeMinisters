@@ -17,8 +17,6 @@ public class Tuple extends Object {
 	 */
 	private List<String> values;
 
-	private List<String>[] list;
-
 	/**
 	 * 属性リストを応答する。
 	 */

@@ -22,7 +22,6 @@ public class Attributes extends Object {
 	 */
 	private int names;
 
-	private List<String> list;
 
 	/**
 	 * 指定されたインデックスに対応する名前を応答する。
